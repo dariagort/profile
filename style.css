@@ -1,0 +1,94 @@
+body {
+  color: ;
+  background-color:rgb(94, 95, 95);
+  text-align: center;
+}
+
+
+h1 {
+  color:rgb(246, 255, 0);
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: ;
+}
+
+h2 {
+  color:rgb(246, 255, 0);
+  font-family: 'Nunito', sans-serif;
+  font-weight: 200;
+  font-size: 24;
+  line-height: ;
+  letter-spacing: 2ex;
+}
+
+/* color:rgb(160, 160, 219); */
+/* rgb(255, 111, 0) */
+img {
+  height: 200;
+  width: 200;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+p {
+  color:rgb(203, 203, 205);
+  font-family: 'Nunito', sans-serif;
+  font-weight: 200;
+  font-size: 14;
+  margin: 30px;
+}
+
+
+.button:hover {
+  background-color: rgb(246, 255, 0);
+  color:rgb(46, 46, 44);
+}
+
+
+.button{
+  padding: 8px 12px;
+  background-color: rgb(194, 52, 5);
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+  color:rgb(239, 239, 255);
+  border-radius: 5px;
+}
+
+
+.icons-social-media {
+  font-size: 40px;
+  padding-left: 0px;
+}
+
+.icons-social-media a:hover  {
+  color:rgb(233, 101, 30);
+}
+
+
+.icons-social-media a {
+  font-size: 40px;
+  color:rgb(246, 255, 0);
+  text-decoration: none;
+}
+
+.card {
+  align-content: center;
+  padding: 30px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 5px 5px 1px 1px rgba(1, 1, 10, 0.1);
+  background-color: rgb(32, 32, 88);
+
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#main-button {
+  margin-bottom: 100px;
+}
